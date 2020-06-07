@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Recipe Book',
-  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.',
+  siteDescription: 'SITE DESCRIPTION HERE',
 
   templates: {
     Post: '/:title',
