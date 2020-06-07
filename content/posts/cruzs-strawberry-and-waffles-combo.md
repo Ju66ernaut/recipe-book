@@ -14,8 +14,8 @@ description: A tasty, easy breakfast to make.
   * 2 cups - Fresh or frozen strawberries
 * Directions
 
-  * Toast waffles
-  * Pour syrup over waffles
-  * Cut strawberry leaves and tops off. Cut strawberries in half.
+  1. Toast waffles
+  2. Pour syrup over waffles
+  3. Cut strawberry leaves and tops off. Cut strawberries in half.
 
-    Enjoy!
+     Enjoy!
