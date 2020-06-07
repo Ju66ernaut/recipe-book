@@ -16,6 +16,6 @@ description: A tasty, easy breakfast to make.
 
   1. Toast waffles
   2. Pour syrup over waffles
-  3. Cut strawberry leaves and tops off. Cut strawberries in half.
+  3. Remove strawberry leaves and cut in half
 
      Enjoy!
